@@ -20,7 +20,7 @@ Lumberscript is a scripting language for controlling various aspects of pen, tex
 - `trc.dot x y`: Draw a dot. Example: `trc.dot 50 50 ;`
 
 ## Wait Command
-- `wait #`: Wait for a specified time in milliseconds. Example: `wait 2000 ;`
+- `wait #`: Wait for a specified time in seconds. Example: `wait 2 ;`
 
 ## Variable Commands
 
